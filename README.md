@@ -1,4 +1,4 @@
-# *Gambler's Problem (Reinforcement Learning)*
+# *Value iteration implementation for theGambler's Problem*
 *In this repository we represent the 'Gambler's Problem' (Example 4.3. from Sutton's book) solution.*
 
 *Here you can see the Gambler's Problem from the book "Reinforcement Learning: An Introduction".*
